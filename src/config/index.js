@@ -99,6 +99,12 @@ export const socialLinks = [
     icon: "ri:telegram-fill",
     url: "https://t.me/+-e-b04EE5Cw2NmU1",
     tip: "加入 TG 群 ~"
+  },
+  {
+    name: "LinuxDo",
+    icon: "ri:linux-fill",
+    url: "https://linux.do/u/ruk1ng",
+    tip: "LinuxDo 社区 ~"
   }
 ];
 
@@ -113,6 +119,21 @@ export const siteLinks = [
     name: "Github",
     link: "https://github.com/Ruk1ng001",
     icon: "ri:github-line"
+  },
+  {
+    name: "freeSub",
+    link: "https://github.com/Ruk1ng001/freeSub",
+    icon: "ri:rss-line"
+  },
+  {
+    name: "freeLive",
+    link: "https://github.com/Ruk1ng001/freeLive",
+    icon: "ri:live-line"
+  },
+  {
+    name: "StockCard",
+    link: "https://stockcard.997269.xyz",
+    icon: "ri:stock-line"
   },
   {
     name: "邮箱",
