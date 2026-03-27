@@ -2,7 +2,7 @@
   <Transition name="slide-down">
     <div v-if="visible" class="welcome-notify">
       <Icon :icon="greeting.icon" width="12" height="12" class="icon" />
-      <span class="text">{{ greeting.text }}，欢迎来到我的主页</span>
+      <span class="text">{{ greeting.text }}，欢迎来到 Ruk1ng 的主页</span>
     </div>
   </Transition>
 </template>

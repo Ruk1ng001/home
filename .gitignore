@@ -28,4 +28,4 @@ dist-ssr
 .env.*.local
 
 # Project specific
-.1.md
+.1.md.claude/
