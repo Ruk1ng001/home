@@ -134,16 +134,6 @@ export const siteLinks = [
     name: "StockCard",
     link: "https://stockcard.997269.xyz",
     icon: "ri:stock-line"
-  },
-  {
-    name: "邮箱",
-    link: "mailto:Ruk1ng@qq.com",
-    icon: "ri:mail-line"
-  },
-  {
-    name: "Telegram",
-    link: "https://t.me/+-e-b04EE5Cw2NmU1",
-    icon: "ri:telegram-line"
   }
 ];
 

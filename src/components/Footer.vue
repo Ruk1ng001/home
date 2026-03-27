@@ -8,13 +8,8 @@
       </div>
 
       <div v-else class="copyright" :key="'copy'">
-        
+
         <span>&copy; {{ copyrightDate }}</span>
-        
-        <span class="author-link">
-          Theme by 
-          <a :href="sys.p" target="_blank">{{ sys.n }}</a>
-        </span>
         
         <span class="split">|</span>
         
