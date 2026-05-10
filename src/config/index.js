@@ -54,7 +54,7 @@ export const musicConfig = {
 export const themeConfig = {
   siteLogo: "/icon/logo.png",              // 站点 Logo 放在 public/images/icon/ 目录下
   background: {                           // 背景来源类型
-    type: "api",                          // 可选值: 'local' 使用本地图片，'api' 使用在线 API 图片
+    type: "local",                          // 可选值: 'local' 使用本地图片，'api' 使用在线 API 图片
     localCount: 10,                       // 本地背景图片数量，当 type 为 'local' 时生效，随机读取 src/assets/backgrounds/ 目录图片。
 
 // 在线背景 API 地址，当 type 为 'api' 时生效。
