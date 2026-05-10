@@ -116,24 +116,50 @@ export const socialLinks = [
 
 export const siteLinks = [
   {
-    name: "Github",
-    link: "https://github.com/Ruk1ng001",
-    icon: "ri:github-line"
+    name: "直播订阅",
+    desc: "免费直播源与订阅播放资源整理",
+    link: "https://live.997269.xyz",
+    github: "https://github.com/Ruk1ng001/freeLive",
+    icon: "ri:live-line",
+    tag: "资源"
   },
   {
-    name: "freeSub",
-    link: "https://github.com/Ruk1ng001/freeSub",
-    icon: "ri:rss-line"
+    name: "免费代理订阅",
+    desc: "免费代理订阅资源整理与分享",
+    github: "https://github.com/Ruk1ng001/freeSub",
+    icon: "ri:rss-line",
+    tag: "资源"
   },
   {
-    name: "freeLive",
-    link: "https://github.com/Ruk1ng001/freeLive",
-    icon: "ri:live-line"
+    name: "A股体验卡",
+    desc: "简洁直观的 A 股行情体验卡片",
+    link: "https://stockcard.997269.xyz/",
+    icon: "ri:stock-line",
+    tag: "工具"
   },
   {
-    name: "StockCard",
-    link: "https://stockcard.997269.xyz",
-    icon: "ri:stock-line"
+    name: "JRebel License Server",
+    desc: "JRebel 和 JetBrains 产品许可证服务器",
+    link: "https://j-license-server.997269.xyz/",
+    github: "https://github.com/Ruk1ng001/JrebelBrainsLicenseServerforGo",
+    icon: "ri:key-2-line",
+    tag: "服务"
+  },
+  {
+    name: "DangDangNote",
+    desc: "记录分享小狗日常的宠物笔记本小程序",
+    link: "https://dangdang-note.997269.xyz/",
+    icon: "ri:booklet-line",
+    tag: "小程序",
+    status: "开发中"
+  },
+  {
+    name: "看见（See）",
+    desc: "面向中国基础教育的师生家三端微信小程序，让老师、家长和学生轻松看见校园生活。",
+    link: "https://see.997269.xyz/",
+    icon: "ri:eye-line",
+    tag: "小程序",
+    status: "开发中"
   }
 ];
 
