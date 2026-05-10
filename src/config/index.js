@@ -10,7 +10,7 @@
 
 // 站点基本信息
 export const siteConfig = {
-  title: "997269.xyz",               // 浏览器标签页上显示的标题
+  title: "997269",               // 浏览器标签页上显示的标题
   author: "Ruk1ng",                  // 站长名称
   description: "一个默默无闻的主页",
   url: "997269.xyz",                 // 站点链接 (用户自己的域名)
